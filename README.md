@@ -1,6 +1,12 @@
 # GNN-influence-maximisation
 
-This is the implementation of the paper "Graph Contrastive Learning for Tag-Aware Influence Maximization"
+
+## This is the implementation of the paper "Graph Contrastive Learning for Tag-Aware Influence Maximization"
+
+Importance score folder contains the code of finding imporance scorte of all the nodes. 
+
+Run : python importent_score.py to generate files stroing importance score of each nodes.
+
 
 A toy graph Graph1 is provided which is fully anonymized, The toy graph is in the form of dictionary and store in pickle file.
 
